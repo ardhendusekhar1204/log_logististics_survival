@@ -36,7 +36,7 @@ Use the CLAM WSI processing tool(https://github.com/mahmoodlab/CLAM) to crop WSI
 3. Feature extraction
 Extract patch-level features with a ViT(https://github.com/lunit-io/benchmark-ssl-pathology#pre-trained-weights) model pretrained on large-scale WSI collections using self-supervised learning.
 
-4. Annoation files and folder structure
+4. Annoation files and folder structure: 
 Prepare you own 'wsi_annos_vit-s-dino-p16.txt' file.
 
 ## 📂 Dataset Structure
