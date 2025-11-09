@@ -78,4 +78,3 @@ python plot.py --config configs/luad_sgcmll.py
 
 ## 📚 Acknowledgements
 Thanks Zekang Yang, Hong Liu, and Xiangdong Wang for the public access of the codebase https://github.com/yang-ze-kang/SCMIL
-# mixtureofloglogistics
