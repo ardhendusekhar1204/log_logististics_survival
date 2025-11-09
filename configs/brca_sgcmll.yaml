@@ -3,7 +3,6 @@ model:
   model_name: SurvivalEGMLL
   E: 5
   K: 100
-  param_share: ['alpha','beta']
   backbone_name: SGCMLL
   input_size: 384
   cluster_size: 64
