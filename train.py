@@ -38,7 +38,6 @@ def detach(data):
     
 
 def summary_folds(root_dir, target='concordance_time_dependent', method='max'):
-    print('method', method)
     vals_dict = {}
     res = {}
     if method == 'last':
