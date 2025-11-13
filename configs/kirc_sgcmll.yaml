@@ -27,7 +27,7 @@ optimizer:
 datasets:
   type: tcga-survival-egmll-wsi
   with_coords: True
-  fold: [5]
+  fold: [1,2,3,4,5]
   root_dir: data/kirc
   wsi_file_path: wsi_annos_vit-s-dino-p16.txt
   clinical_file_path: clinical.csv
